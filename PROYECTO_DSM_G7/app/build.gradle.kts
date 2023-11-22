@@ -66,4 +66,22 @@ dependencies {
     androidTestImplementation("androidx.compose.ui:ui-test-junit4")
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
+
+    // DEPENDENCIAS PARA CASA
+    //PRINCIPAL
+    implementation("com.maxkeppeler.sheets-compose-dialogs:core:1.0.2")
+    // CALENDAR
+    implementation("com.maxkeppeler.sheets-compose-dialogs:calendar:1.0.2")
+    // CLOCK
+    implementation("com.maxkeppeler.sheets-compose-dialogs:clock:1.0.2")
+
+    //DEPENCIAS PARA LOS TABS
+    implementation("com.google.accompanist:accompanist-pager:0.20.0")
+    implementation("com.google.accompanist:accompanist-pager-indicators:0.20.0")
+
+
+    //EXTRAS
+    implementation("androidx.compose.material:material-icons-extended")
+    implementation("androidx.navigation:navigation-compose:2.5.0-alpha01")
+    
 }
