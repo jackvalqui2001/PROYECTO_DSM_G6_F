@@ -80,8 +80,20 @@ dependencies {
     implementation("com.google.accompanist:accompanist-pager-indicators:0.20.0")
 
 
-    //EXTRAS
+    //NAVEGACIÓN
     implementation("androidx.compose.material:material-icons-extended")
     implementation("androidx.navigation:navigation-compose:2.5.0-alpha01")
+
+    //Exposed y postgresql
+    implementation("org.jetbrains.exposed:exposed-core:0.44.1")
+    implementation("org.jetbrains.exposed:exposed-dao:0.44.1")
+    implementation("org.jetbrains.exposed:exposed-jdbc:0.44.1")
+    implementation("org.jetbrains.exposed:exposed-java-time:0.44.1")
+    implementation("org.postgresql:postgresql:42.2.2")
+    //LiveData
+    implementation("androidx.compose.runtime:runtime-livedata:1.3.3")
+    //Google Maps
+    implementation("com.google.maps.android:maps-compose:2.11.4")
+    implementation("com.google.android.gms:play-services-maps:18.1.0")
 
 }
