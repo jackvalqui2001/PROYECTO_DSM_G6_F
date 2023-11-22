@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--DESCRIPCIÓN DE LOS GASTOS-->
+    <string name="descripcion_1">"Planilla"</string>
+    <string name="descripcion_2">"Administracion y Contabilidad"</string>
+    <string name="descripcion_3">"Telefono Fijo e Internet"</string>
+    <string name="descripcion_4">"Consumo de Luz Mensual SS, GG"</string>
+    <string name="descripcion_5">"Consumo de Luz Mensual SS, GG"</string>
+    <string name="descripcion_6">"Consumo de Luz Mensual TORRE A"</string>
+    <string name="descripcion_7">"Consumo de Luz Mensual TORRE B"</string>
+    <string name="descripcion_8">"Consumo de Luz Mensual TORRE C"</string>
+    <string name="descripcion_9">"Mantenimiento Mensual Ascensores TORRE A"</string>
+    <string name="descripcion_10">"Mantenimiento Mensual Ascensores TORRE B"</string>
+
+
+    <!--IMPORTE ASOCIADO A CADA GASTO-->
+    <string name="importe_casa_1">95.87</string>
+    <string name="importe_casa_2">20.71</string>
+    <string name="importe_casa_3">0.77</string>
+    <string name="importe_casa_4">8.62</string>
+    <string name="importe_casa_5">1.22</string>
+    <string name="importe_casa_6">7.92</string>
+    <string name="importe_casa_7">14.74</string>
+    <string name="importe_casa_8">10.82</string>
+    <string name="importe_casa_9">1.57</string>
+    <string name="importe_casa_10">2.66</string>
+
+
+
+
+
+
+
+
+
+
+
+</resources>
