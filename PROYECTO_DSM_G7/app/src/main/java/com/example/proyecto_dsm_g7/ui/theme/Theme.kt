@@ -65,6 +65,8 @@ fun PROYECTO_DSM_G7Theme(
     MaterialTheme(
         colorScheme = colorScheme,
         typography = Typography,
+        //ANEXADO PARA CAMBIAR LA FORMA DE LA CARD
+        shapes = Shapes,
         content = content
     )
 }
