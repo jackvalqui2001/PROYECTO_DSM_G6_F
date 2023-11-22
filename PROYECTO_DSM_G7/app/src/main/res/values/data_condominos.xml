@@ -82,19 +82,7 @@
     <string name="direccion_14">Av. Principal 123</string>
 
     <!--NUMERO ID UBIGEO-->
-    <string name="id_ubigeo_1">150136</string>
-    <string name="id_ubigeo_2">150902</string>
-    <string name="id_ubigeo_3">250101</string>
-    <string name="id_ubigeo_4">230105</string>
-    <string name="id_ubigeo_5">" "</string>
-    <string name="id_ubigeo_6">150204</string>
-    <string name="id_ubigeo_7">150101</string>
-    <string name="id_ubigeo_8">150101</string>
-    <string name="id_ubigeo_9">110112</string>
-    <string name="id_ubigeo_10">" "</string>
-    <string name="id_ubigeo_11">150136</string>
-    <string name="id_ubigeo_12">220804</string>
-    <string name="id_ubigeo_13">150807</string>
+
     <string name="id_ubigeo_14">150603</string>
 
     <!--NUMERO ID DUEÑO-->
