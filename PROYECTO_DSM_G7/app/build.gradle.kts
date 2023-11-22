@@ -83,5 +83,5 @@ dependencies {
     //EXTRAS
     implementation("androidx.compose.material:material-icons-extended")
     implementation("androidx.navigation:navigation-compose:2.5.0-alpha01")
-    
+
 }
