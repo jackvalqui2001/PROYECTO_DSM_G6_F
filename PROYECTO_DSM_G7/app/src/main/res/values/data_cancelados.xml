@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--ID PREDIO-->
+    <string name="num_casa_1">A10_101</string>
+    <string name="num_casa_2">A10_102</string>
+    <string name="num_casa_3">A10_103</string>
+    <string name="num_casa_4">A10_104</string>
+    <string name="num_casa_5">A10_105</string>
+
+    <!--ID PREDIO-->
+    <string name="mantenimiento_1">S/.150</string>
+    <string name="mantenimiento_2">S/.250</string>
+    <string name="mantenimiento_3">S/.350</string>
+    <string name="mantenimiento_4">S/.450</string>
+    <string name="mantenimiento_5">S/.550</string>
+
+
+</resources>
