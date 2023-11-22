@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!--TAMAÑO DEL PADDING (ESQUEMA DE RELLENO)-->
+    <dimen name="padding_little_small">4dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <!--TAMAÑO DE LA IMAGEN-->
+    <dimen name="image_size_condominio">32dp</dimen>
+    <dimen name="image_size">64dp</dimen>
 
 </resources>
